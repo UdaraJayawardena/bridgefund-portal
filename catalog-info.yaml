@@ -1,0 +1,18 @@
+# This file is maintained by an automation script and should not be modified manually
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: bridgefund-portal
+  namespace: initiation
+  description: Portal used to access several Bridgefund services.
+  tags:
+  - node-16
+spec:
+  type: service
+  lifecycle: production
+  owner: default/initiation-team
+  system: initiation
+  providesApis: []
+  consumesApis: []
+  dependsOn: []

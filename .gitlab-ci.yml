@@ -1,0 +1,16 @@
+include:
+  - project: 'b5087/devops/ci-templates'
+    file: '/v2-alpha/trunk-web.yml'
+
+variables:
+  SERVICE: "bridgefund-portal"
+  SERVICE_TYPE: 'web'
+  NAMESPACE: initiation
+  DEV_HOSTNAME: bridgefund-portal.bridgefund-development.net
+  ACCEPTANCE_HOSTNAME: bridgefund-portal.bridgefund-acceptance.net
+  APPROVAL_HOSTNAME: bridgefund-portal.bridgefund-approval.net
+  PRODUCTION_HOSTNAME: bridgefund-portal.bridgefund.net
+  SERVICE_PATH: '/'
+  BUILD_IMAGE: 002665144501.dkr.ecr.eu-central-1.amazonaws.com/base:node-16
+  NPM_AUDIT: "false"
+  

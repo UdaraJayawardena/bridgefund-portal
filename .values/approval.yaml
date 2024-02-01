@@ -1,0 +1,6 @@
+deployment:
+  image:
+    repository: 002665144501.dkr.ecr.eu-central-1.amazonaws.com/bf-web-approval-initiation-bridgefund-portal
+  env:
+    ENVIRONMENT: acceptance
+hostName: bridgefund-portal.bridgefund-approval.net

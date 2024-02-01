@@ -1,0 +1,537 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dashboard --- Snapshot +++capturing Snapshot of Dashboard 1`] = `
+<table
+  className="MuiTable-root-18 Trends-table-9"
+>
+  <thead
+    className="MuiTableHead-root-19 Trends-tableRow-10"
+  >
+    <tr
+      className="MuiTableRow-root-20 MuiTableRow-head-23 Trends-tableRow-10"
+    >
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-head-26 Trends-tableCell-12"
+        scope="col"
+      >
+        Customer
+      </th>
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-head-26 Trends-tableCell-12"
+        scope="col"
+      >
+        Percentage Behind
+      </th>
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-head-26 Trends-tableCell-12"
+        scope="col"
+      >
+        Trend
+      </th>
+    </tr>
+  </thead>
+  <tbody
+    className="MuiTableBody-root-37"
+  >
+    <tr
+      className="MuiTableRow-root-20 Trends-tableRow-10"
+    >
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Trends-tableCell-12"
+      >
+        ABC
+      </td>
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Trends-tableCell-12"
+      >
+        1.0
+        %
+      </td>
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Trends-tableActions-11"
+      >
+        <svg
+          aria-hidden="true"
+          className="MuiSvgIcon-root-38 undefined undefined"
+          focusable="false"
+          role="presentation"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M0 0h24v24H0V0z"
+            fill="none"
+          />
+          <path
+            d="M4 12l1.41 1.41L11 7.83V20h2V7.83l5.58 5.59L20 12l-8-8-8 8z"
+          />
+        </svg>
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;
+
+exports[`Dashboard --- Snapshot +++capturing Snapshot of Trends 1`] = `
+<table
+  className="MuiTable-root-18 Trends-table-9"
+>
+  <thead
+    className="MuiTableHead-root-19 Trends-tableRow-10"
+  >
+    <tr
+      className="MuiTableRow-root-20 MuiTableRow-head-23 Trends-tableRow-10"
+    >
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-head-26 Trends-tableCell-12"
+        scope="col"
+      >
+        Customer
+      </th>
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-head-26 Trends-tableCell-12"
+        scope="col"
+      >
+        Percentage Behind
+      </th>
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-head-26 Trends-tableCell-12"
+        scope="col"
+      >
+        Trend
+      </th>
+    </tr>
+  </thead>
+  <tbody
+    className="MuiTableBody-root-37"
+  >
+    <tr
+      className="MuiTableRow-root-20 Trends-tableRow-10"
+    >
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Trends-tableCell-12"
+      >
+        ABC
+      </td>
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Trends-tableCell-12"
+      >
+        1.0
+        %
+      </td>
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Trends-tableActions-11"
+      >
+        <svg
+          aria-hidden="true"
+          className="MuiSvgIcon-root-38 undefined undefined"
+          focusable="false"
+          role="presentation"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M0 0h24v24H0V0z"
+            fill="none"
+          />
+          <path
+            d="M4 12l1.41 1.41L11 7.83V20h2V7.83l5.58 5.59L20 12l-8-8-8 8z"
+          />
+        </svg>
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;
+
+exports[`Dashboard --- Snapshot +++capturing Snapshot of Trends Down 1`] = `
+<table
+  className="MuiTable-root-18 Trends-table-9"
+>
+  <thead
+    className="MuiTableHead-root-19 Trends-tableRow-10"
+  >
+    <tr
+      className="MuiTableRow-root-20 MuiTableRow-head-23 Trends-tableRow-10"
+    >
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-head-26 Trends-tableCell-12"
+        scope="col"
+      >
+        Customer
+      </th>
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-head-26 Trends-tableCell-12"
+        scope="col"
+      >
+        Percentage Behind
+      </th>
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-head-26 Trends-tableCell-12"
+        scope="col"
+      >
+        Trend
+      </th>
+    </tr>
+  </thead>
+  <tbody
+    className="MuiTableBody-root-37"
+  >
+    <tr
+      className="MuiTableRow-root-20 Trends-tableRow-10"
+    >
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Trends-tableCell-12"
+      >
+        ABC
+      </td>
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Trends-tableCell-12"
+      >
+        1.0
+        %
+      </td>
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Trends-tableActions-11"
+      >
+        <svg
+          aria-hidden="true"
+          className="MuiSvgIcon-root-38 undefined undefined"
+          focusable="false"
+          role="presentation"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M0 0h24v24H0V0z"
+            fill="none"
+          />
+          <path
+            d="M4 12l1.41 1.41L11 7.83V20h2V7.83l5.58 5.59L20 12l-8-8-8 8z"
+          />
+        </svg>
+      </td>
+    </tr>
+    <tr
+      className="MuiTableRow-root-20 Trends-tableRow-10"
+    >
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Trends-tableCell-12"
+      >
+        ABC 123
+      </td>
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Trends-tableCell-12"
+      >
+        2.0
+        %
+      </td>
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Trends-tableActions-11"
+      >
+        <svg
+          aria-hidden="true"
+          className="MuiSvgIcon-root-38 undefined undefined"
+          focusable="false"
+          role="presentation"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M0 0h24v24H0V0z"
+            fill="none"
+          />
+          <path
+            d="M20 12l-1.41-1.41L13 16.17V4h-2v12.17l-5.58-5.59L4 12l8 8 8-8z"
+          />
+        </svg>
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;
+
+exports[`Trends --- Snapshot +++capturing Snapshot of Trends 1`] = `
+<table
+  className="MuiTable-root-18 Trends-table-9"
+>
+  <thead
+    className="MuiTableHead-root-19 Trends-tableRow-10"
+  >
+    <tr
+      className="MuiTableRow-root-20 MuiTableRow-head-23 Trends-tableRow-10"
+    >
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-head-26 Trends-tableCell-12"
+        scope="col"
+      >
+        Customer
+      </th>
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-head-26 Trends-tableCell-12"
+        scope="col"
+      >
+        Percentage Behind
+      </th>
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-head-26 Trends-tableCell-12"
+        scope="col"
+      >
+        Trend
+      </th>
+    </tr>
+  </thead>
+  <tbody
+    className="MuiTableBody-root-37"
+  >
+    <tr
+      className="MuiTableRow-root-20 Trends-tableRow-10"
+    >
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Trends-tableCell-12"
+      >
+        ABC
+      </td>
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Trends-tableCell-12"
+      >
+        1.0
+        %
+      </td>
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Trends-tableActions-11"
+      >
+        <svg
+          aria-hidden="true"
+          className="MuiSvgIcon-root-38 undefined undefined"
+          focusable="false"
+          role="presentation"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M0 0h24v24H0V0z"
+            fill="none"
+          />
+          <path
+            d="M4 12l1.41 1.41L11 7.83V20h2V7.83l5.58 5.59L20 12l-8-8-8 8z"
+          />
+        </svg>
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;
+
+exports[`Trends --- Snapshot +++capturing Snapshot of Trends Down 1`] = `
+<table
+  className="MuiTable-root-18 Trends-table-9"
+>
+  <thead
+    className="MuiTableHead-root-19 Trends-tableRow-10"
+  >
+    <tr
+      className="MuiTableRow-root-20 MuiTableRow-head-23 Trends-tableRow-10"
+    >
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-head-26 Trends-tableCell-12"
+        scope="col"
+      >
+        Customer
+      </th>
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-head-26 Trends-tableCell-12"
+        scope="col"
+      >
+        Percentage Behind
+      </th>
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-head-26 Trends-tableCell-12"
+        scope="col"
+      >
+        Trend
+      </th>
+    </tr>
+  </thead>
+  <tbody
+    className="MuiTableBody-root-37"
+  >
+    <tr
+      className="MuiTableRow-root-20 Trends-tableRow-10"
+    >
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Trends-tableCell-12"
+      >
+        ABC
+      </td>
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Trends-tableCell-12"
+      >
+        1.0
+        %
+      </td>
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Trends-tableActions-11"
+      >
+        <svg
+          aria-hidden="true"
+          className="MuiSvgIcon-root-38 undefined undefined"
+          focusable="false"
+          role="presentation"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M0 0h24v24H0V0z"
+            fill="none"
+          />
+          <path
+            d="M4 12l1.41 1.41L11 7.83V20h2V7.83l5.58 5.59L20 12l-8-8-8 8z"
+          />
+        </svg>
+      </td>
+    </tr>
+    <tr
+      className="MuiTableRow-root-20 Trends-tableRow-10"
+    >
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Trends-tableCell-12"
+      >
+        ABC 123
+      </td>
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Trends-tableCell-12"
+      >
+        2.0
+        %
+      </td>
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Trends-tableActions-11"
+      >
+        <svg
+          aria-hidden="true"
+          className="MuiSvgIcon-root-38 undefined undefined"
+          focusable="false"
+          role="presentation"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M0 0h24v24H0V0z"
+            fill="none"
+          />
+          <path
+            d="M20 12l-1.41-1.41L13 16.17V4h-2v12.17l-5.58-5.59L4 12l8 8 8-8z"
+          />
+        </svg>
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;
+
+exports[`Trends --- Snapshot +++capturing Snapshot of Trends Up 1`] = `
+<table
+  className="MuiTable-root-18 Trends-table-9"
+>
+  <thead
+    className="MuiTableHead-root-19 Trends-tableRow-10"
+  >
+    <tr
+      className="MuiTableRow-root-20 MuiTableRow-head-23 Trends-tableRow-10"
+    >
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-head-26 Trends-tableCell-12"
+        scope="col"
+      >
+        Customer
+      </th>
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-head-26 Trends-tableCell-12"
+        scope="col"
+      >
+        Percentage Behind
+      </th>
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-head-26 Trends-tableCell-12"
+        scope="col"
+      >
+        Trend
+      </th>
+    </tr>
+  </thead>
+  <tbody
+    className="MuiTableBody-root-37"
+  >
+    <tr
+      className="MuiTableRow-root-20 Trends-tableRow-10"
+    >
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Trends-tableCell-12"
+      >
+        ABC
+      </td>
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Trends-tableCell-12"
+      >
+        1.0
+        %
+      </td>
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Trends-tableActions-11"
+      >
+        <svg
+          aria-hidden="true"
+          className="MuiSvgIcon-root-38 undefined undefined"
+          focusable="false"
+          role="presentation"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M0 0h24v24H0V0z"
+            fill="none"
+          />
+          <path
+            d="M4 12l1.41 1.41L11 7.83V20h2V7.83l5.58 5.59L20 12l-8-8-8 8z"
+          />
+        </svg>
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;

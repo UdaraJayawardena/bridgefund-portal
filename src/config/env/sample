@@ -1,0 +1,44 @@
+{
+  "CRM_PORTAL_URL": "http://localhost:3000",
+  "LI_PORTAL_URL": "http://localhost:3000",
+  "LM_PORTAL_URL": "http://localhost:3000",
+  "INITIATION_GATEWAY_URL": "http://localhost:4017/v1",
+  "CRM_GATEWAY_URL":"http://localhost:4013/v1",
+  "API_GATEWAY_URL": "http://localhost:3001/v1",
+  "CRM_PROXY_URL": "http://localhost:3003/v1",
+  "DIRECT_DEBITS_URL": "http://localhost:3005/v2",
+  "LOAN_MANAGEMENT_URL": "http://localhost:3007/v2",
+  "SETTINGS_URL": "http://localhost:3008/core",
+  "CHAMBER_OF_COMMERCE_URL": "http://localhost:9999/v1",
+  "CONFIGURATION_URL": "http://localhost:4002/v1",
+  "FOUNDATION_URL":"http://localhost:4001/v1",
+  "NOTIFICATION_SERVICE_URL":"http://localhost:4004/v1",
+  "COMMUNICATION_SERVICE_URL":"http://localhost:3501",
+  "ENCRYPTION_KEY":"real secret keys should be long and random for Bridgefund",
+  "FOUNDATION_GATEWAY": "http://localhost:4016/v1",
+  "SMS_ADAPTER-URL": "http://localhost:7000/V1",
+  "CLUSTERS":["BFLM","BFFM","BFF","LI","CRM"],
+  "SNAPSHOT_DOWNLOAD_PATHS":{
+    "BFLM": "http://localhost:2020/v1", /* IN LOCAL ADD SAME URL FOR SNAPSHOT SERVICE | REMOVE THIS COMMENT */ 
+    "BFFM": "http://localhost:2020/v1", /* IN LOCAL ADD SAME URL FOR SNAPSHOT SERVICE | REMOVE THIS COMMENT */
+    "BFF": "http://localhost:2020/v1", /* IN LOCAL ADD SAME URL FOR SNAPSHOT SERVICE | REMOVE THIS COMMENT */
+    "LI": "http://localhost:2020/v1", /* IN LOCAL ADD SAME URL FOR SNAPSHOT SERVICE | REMOVE THIS COMMENT */
+    "CRM": "http://localhost:2020/v1" /* IN LOCAL ADD SAME URL FOR SNAPSHOT SERVICE | REMOVE THIS COMMENT */
+  },
+  "SYSTEM_USERS": [
+    "loanApplicationProcessBackEnd",
+    "baiParser"
+  ],
+   "FRONT_END_PORTAL_KEY":"BFP",
+   "MANDATE_RETURN_URL": "https://www.bridgefund.nl/service/incasso-machtiging/",
+   "MANDATE_SERVICE_URL": "http://localhost:4240/v1",
+  "FIRST_ANALYSIS_URL": "http://localhost:3002",
+  "BASE_RATE" : "0.50",
+  "VALID_DATE_FOR_OLDER_PREPAYMENTS": "2023-04-05"
+}
+
+/*#######################################################################
+#                                                                       #
+# CREATE development.json | production.json | test.json files as needed #
+#                                                                       #
+#######################################################################*/

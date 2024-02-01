@@ -1,0 +1,8 @@
+deployment:
+  image:
+    repository: 336144032973.dkr.ecr.eu-central-1.amazonaws.com/bf-web-production-initiation-bridgefund-portal
+  env:
+    ENVIRONMENT: production
+hostName: bridgefund-portal.bridgefund.net
+minReplicas: 2
+maxReplicas: 2

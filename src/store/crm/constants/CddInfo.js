@@ -1,0 +1,3 @@
+export const CLEAR_CDD_INFO = 'CLEAR_CDD_INFO';
+export const SET_CDD_INFO = 'SET_CDD_INFO';
+export const CLEAR_PERSON_CDD_INFO = 'CLEAR_PERSON_CDD_INFO';

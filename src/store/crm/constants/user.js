@@ -1,0 +1,1 @@
+export const USER_PERMISSION = 'USER_PERMISSION';

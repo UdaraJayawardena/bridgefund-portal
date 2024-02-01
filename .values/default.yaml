@@ -1,0 +1,10 @@
+deployment:
+  env:
+    JAEGER_HOST: jaeger-agent.istio-system.svc.cluster.local
+    JAEGER_PORT: 6832
+    NODE_ENV: production
+    PORT: 5000
+ingress:
+  enabled: true
+port: 5000
+

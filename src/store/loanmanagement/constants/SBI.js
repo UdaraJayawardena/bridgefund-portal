@@ -1,0 +1,1 @@
+export const SET_SBI_PARENT_LIST = 'SET_SBI_PARENT_LIST';

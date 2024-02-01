@@ -1,0 +1,119 @@
+/* responsive */
+@media (min-width: 1128px){
+    .page-container-responsive {
+        width: 1142px !important;
+    }
+    
+}
+
+@media (min-width: 744px){
+    .page-container-responsive {
+        width: 696px;
+    }
+
+}
+/* responsive end */
+
+.col-top, .col-middle, .col-bottom {
+    float: none;
+    display: table-cell;
+}
+.space-top-4 {
+    margin-top: 24px;
+}
+
+.page-container, .page-container-responsive {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.space-top-8 {
+    margin-top: 48px;
+}
+.space-8 {
+    margin-bottom: 48px;
+}
+
+
+.col-middle {
+    vertical-align: middle;
+}
+
+.col-top, .col-middle, .col-bottom {
+    float: none;
+    display: table-cell;
+}
+
+.text-jumbo {
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.list-unstyled, .list-layout, .subnav-list, .sidenav-list {
+    padding-left: 0 !important;
+    list-style: none !important;
+}
+
+.list-unstyled, .list-layout, .subnav-list, .sidenav-list {
+    padding-left: 0 !important;
+    list-style: none !important;
+}
+.d-b{
+    display: block !important;
+}
+
+.page-container:before, .page-container-responsive:before, .page-container:after, .page-container-responsive:after {
+    content: " " !important;
+    display: table !important;
+}
+.m-l-90{
+    margin-left: 60px !important;
+}
+.f-w{
+    font-weight: 700 !important;
+}
+.b-w{
+    background: white
+}
+.f-c-g{
+    color: #484848;
+}
+.h2-s{
+    font-size: 32px;
+    font-weight: normal;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    line-height: 1.1;
+    text-rendering: optimizelegibility;
+}
+.h6-s{
+    font-size: 14px;
+    font-weight: bold;
+    color: #767676;
+}
+.m-b-t{
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+.f-s-14{
+    font-size: 14px;
+    line-height: 1.43;
+}
+.row-table {
+    display: table;
+    table-layout: fixed;
+}
+.h-l-f-s{
+    font-size: 30px !important;
+    font-weight: normal;
+    color: #484848 !important;
+}
+.h-v-h{
+    height: 100vh;
+    padding-top: 1px;
+}
+.p-t-15{
+    padding-top: 15px;
+}

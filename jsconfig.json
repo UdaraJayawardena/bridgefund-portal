@@ -1,0 +1,35 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "checkJs": true,
+    "allowSyntheticDefaultImports": true,
+    "jsx": "react",
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "baseUrl": "./src",
+    "paths": {
+      "constants/*": [
+        "./constants/*"
+      ],
+      "lib/*": [
+        "./lib/*"
+      ],
+      "store/*": [
+        "./store/*"
+      ],
+      "components/*": [
+        "./components/*"
+      ],
+      "views/*": [
+        "./views/*"
+      ],
+      "assets/*": [
+        "./assets/*"
+      ]
+    }
+  },
+  "include": [
+    "src/**/*"
+  ]
+}

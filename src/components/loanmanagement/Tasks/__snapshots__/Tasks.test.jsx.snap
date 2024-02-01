@@ -1,0 +1,716 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tasks --- Snapshot +++capturing Snapshot of Tasks, High Priority Logs 1`] = `
+<table
+  className="MuiTable-root-18 Tasks-table-9"
+>
+  <thead
+    className="MuiTableHead-root-19 Tasks-tableRow-10"
+  >
+    <tr
+      className="MuiTableRow-root-20 MuiTableRow-head-23 Tasks-tableRow-10"
+    >
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-head-26 Tasks-tableCell-12"
+        scope="col"
+      >
+        Date
+      </th>
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-head-26 Tasks-tableCell-12"
+        scope="col"
+      >
+        Customer
+      </th>
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-head-26 Tasks-tableCell-12"
+        scope="col"
+      >
+        Message
+      </th>
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-head-26 Tasks-tableCell-12"
+        scope="col"
+      >
+        Priority
+      </th>
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-head-26 Tasks-tableCell-12"
+        scope="col"
+      >
+        
+      </th>
+    </tr>
+  </thead>
+  <tbody
+    className="MuiTableBody-root-37"
+  >
+    <tr
+      className="MuiTableRow-root-20 Tasks-tableRow-10"
+    >
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Tasks-tableCell-12"
+      >
+        2019/01/02
+      </td>
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Tasks-tableCell-12"
+      >
+        ABC 123
+      </td>
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Tasks-tableCell-12"
+      >
+        high priority event log
+      </td>
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Tasks-tableCell-12"
+      >
+        High
+      </td>
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Tasks-tableActions-11"
+      >
+        <button
+          aria-describedby={null}
+          aria-label="Info"
+          className="MuiButtonBase-root-52 MuiIconButton-root-46 Tasks-tableActionButton-14"
+          disabled={false}
+          onBlur={[Function]}
+          onContextMenu={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseOver={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex="0"
+          title="Info"
+          type="button"
+        >
+          <span
+            className="MuiIconButton-label-51"
+          >
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root-55 Tasks-tableActionButtonIcon-15 undefined"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+              />
+              <path
+                d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-6h2v6zm0-8h-2V7h2v2z"
+              />
+            </svg>
+          </span>
+          <span
+            className="MuiTouchRipple-root-64"
+          />
+        </button>
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;
+
+exports[`Tasks --- Snapshot +++capturing Snapshot of Tasks, Medium Priority Logs 1`] = `
+<table
+  className="MuiTable-root-18 Tasks-table-9"
+>
+  <thead
+    className="MuiTableHead-root-19 Tasks-tableRow-10"
+  >
+    <tr
+      className="MuiTableRow-root-20 MuiTableRow-head-23 Tasks-tableRow-10"
+    >
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-head-26 Tasks-tableCell-12"
+        scope="col"
+      >
+        Date
+      </th>
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-head-26 Tasks-tableCell-12"
+        scope="col"
+      >
+        Customer
+      </th>
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-head-26 Tasks-tableCell-12"
+        scope="col"
+      >
+        Message
+      </th>
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-head-26 Tasks-tableCell-12"
+        scope="col"
+      >
+        Priority
+      </th>
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-head-26 Tasks-tableCell-12"
+        scope="col"
+      >
+        
+      </th>
+    </tr>
+  </thead>
+  <tbody
+    className="MuiTableBody-root-37"
+  >
+    <tr
+      className="MuiTableRow-root-20 Tasks-tableRow-10"
+    >
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Tasks-tableCell-12"
+      >
+        2019/01/01
+      </td>
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Tasks-tableCell-12"
+      >
+        ABC
+      </td>
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Tasks-tableCell-12"
+      >
+        medium priority event log
+      </td>
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Tasks-tableCell-12"
+      >
+        Medium
+      </td>
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Tasks-tableActions-11"
+      >
+        <button
+          aria-describedby={null}
+          aria-label="Info"
+          className="MuiButtonBase-root-52 MuiIconButton-root-46 Tasks-tableActionButton-14"
+          disabled={false}
+          onBlur={[Function]}
+          onContextMenu={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseOver={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex="0"
+          title="Info"
+          type="button"
+        >
+          <span
+            className="MuiIconButton-label-51"
+          >
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root-55 Tasks-tableActionButtonIcon-15 undefined"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+              />
+              <path
+                d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-6h2v6zm0-8h-2V7h2v2z"
+              />
+            </svg>
+          </span>
+          <span
+            className="MuiTouchRipple-root-64"
+          />
+        </button>
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;
+
+exports[`Tasks --- Snapshot +++capturing Snapshot of Tasks, Panic Logs 1`] = `
+<table
+  className="MuiTable-root-18 Tasks-table-9"
+>
+  <thead
+    className="MuiTableHead-root-19 Tasks-tableRow-10"
+  >
+    <tr
+      className="MuiTableRow-root-20 MuiTableRow-head-23 Tasks-tableRow-10"
+    >
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-head-26 Tasks-tableCell-12"
+        scope="col"
+      >
+        Date
+      </th>
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-head-26 Tasks-tableCell-12"
+        scope="col"
+      >
+        Customer
+      </th>
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-head-26 Tasks-tableCell-12"
+        scope="col"
+      >
+        Message
+      </th>
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-head-26 Tasks-tableCell-12"
+        scope="col"
+      >
+        Priority
+      </th>
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-head-26 Tasks-tableCell-12"
+        scope="col"
+      >
+        
+      </th>
+    </tr>
+  </thead>
+  <tbody
+    className="MuiTableBody-root-37"
+  >
+    <tr
+      className="MuiTableRow-root-20 Tasks-tableRow-10"
+    >
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Tasks-tableCell-12"
+      >
+        2019/01/03
+      </td>
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Tasks-tableCell-12"
+      >
+        456 xxx-01
+      </td>
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Tasks-tableCell-12"
+      >
+        panic priority event log
+      </td>
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Tasks-tableCell-12"
+      >
+        Panic
+      </td>
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Tasks-tableActions-11"
+      >
+        <button
+          aria-describedby={null}
+          aria-label="Info"
+          className="MuiButtonBase-root-52 MuiIconButton-root-46 Tasks-tableActionButton-14"
+          disabled={false}
+          onBlur={[Function]}
+          onContextMenu={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseOver={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex="0"
+          title="Info"
+          type="button"
+        >
+          <span
+            className="MuiIconButton-label-51"
+          >
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root-55 Tasks-tableActionButtonIcon-15 undefined"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+              />
+              <path
+                d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-6h2v6zm0-8h-2V7h2v2z"
+              />
+            </svg>
+          </span>
+          <span
+            className="MuiTouchRipple-root-64"
+          />
+        </button>
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;
+
+exports[`Tasks --- Snapshot +++capturing Snapshot of Tasks, Panic Priority Logs 1`] = `
+<table
+  className="MuiTable-root-18 Tasks-table-9"
+>
+  <thead
+    className="MuiTableHead-root-19 Tasks-tableRow-10"
+  >
+    <tr
+      className="MuiTableRow-root-20 MuiTableRow-head-23 Tasks-tableRow-10"
+    >
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-head-26 Tasks-tableCell-12"
+        scope="col"
+      >
+        Date
+      </th>
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-head-26 Tasks-tableCell-12"
+        scope="col"
+      >
+        Customer
+      </th>
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-head-26 Tasks-tableCell-12"
+        scope="col"
+      >
+        Message
+      </th>
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-head-26 Tasks-tableCell-12"
+        scope="col"
+      >
+        Priority
+      </th>
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-head-26 Tasks-tableCell-12"
+        scope="col"
+      >
+        
+      </th>
+    </tr>
+  </thead>
+  <tbody
+    className="MuiTableBody-root-37"
+  >
+    <tr
+      className="MuiTableRow-root-20 Tasks-tableRow-10"
+    >
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Tasks-tableCell-12"
+      >
+        2019/01/03
+      </td>
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Tasks-tableCell-12"
+      >
+        456 xxx-01
+      </td>
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Tasks-tableCell-12"
+      >
+        panic priority event log
+      </td>
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Tasks-tableCell-12"
+      >
+        Panic
+      </td>
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Tasks-tableActions-11"
+      >
+        <button
+          aria-describedby={null}
+          aria-label="Info"
+          className="MuiButtonBase-root-52 MuiIconButton-root-46 Tasks-tableActionButton-14"
+          disabled={false}
+          onBlur={[Function]}
+          onContextMenu={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseOver={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex="0"
+          title="Info"
+          type="button"
+        >
+          <span
+            className="MuiIconButton-label-51"
+          >
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root-55 Tasks-tableActionButtonIcon-15 undefined"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+              />
+              <path
+                d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-6h2v6zm0-8h-2V7h2v2z"
+              />
+            </svg>
+          </span>
+          <span
+            className="MuiTouchRipple-root-64"
+          />
+        </button>
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;
+
+exports[`Trends --- Snapshot +++capturing Snapshot of Trends Down 1`] = `
+<table
+  className="MuiTable-root-18 Trends-table-9"
+>
+  <thead
+    className="MuiTableHead-root-19 Trends-tableRow-10"
+  >
+    <tr
+      className="MuiTableRow-root-20 MuiTableRow-head-23 Trends-tableRow-10"
+    >
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-head-26 Trends-tableCell-12"
+        scope="col"
+      >
+        Customer
+      </th>
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-head-26 Trends-tableCell-12"
+        scope="col"
+      >
+        Percentage Behind
+      </th>
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-head-26 Trends-tableCell-12"
+        scope="col"
+      >
+        Trend
+      </th>
+    </tr>
+  </thead>
+  <tbody
+    className="MuiTableBody-root-37"
+  >
+    <tr
+      className="MuiTableRow-root-20 Trends-tableRow-10"
+    >
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Trends-tableCell-12"
+      >
+        ABC
+      </td>
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Trends-tableCell-12"
+      >
+        1.0
+        %
+      </td>
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Trends-tableActions-11"
+      >
+        <svg
+          aria-hidden="true"
+          className="MuiSvgIcon-root-38 undefined undefined"
+          focusable="false"
+          role="presentation"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M0 0h24v24H0V0z"
+            fill="none"
+          />
+          <path
+            d="M4 12l1.41 1.41L11 7.83V20h2V7.83l5.58 5.59L20 12l-8-8-8 8z"
+          />
+        </svg>
+      </td>
+    </tr>
+    <tr
+      className="MuiTableRow-root-20 Trends-tableRow-10"
+    >
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Trends-tableCell-12"
+      >
+        ABC 123
+      </td>
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Trends-tableCell-12"
+      >
+        2.0
+        %
+      </td>
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Trends-tableActions-11"
+      >
+        <svg
+          aria-hidden="true"
+          className="MuiSvgIcon-root-38 undefined undefined"
+          focusable="false"
+          role="presentation"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M0 0h24v24H0V0z"
+            fill="none"
+          />
+          <path
+            d="M20 12l-1.41-1.41L13 16.17V4h-2v12.17l-5.58-5.59L4 12l8 8 8-8z"
+          />
+        </svg>
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;
+
+exports[`Trends --- Snapshot +++capturing Snapshot of Trends Up 1`] = `
+<table
+  className="MuiTable-root-18 Trends-table-9"
+>
+  <thead
+    className="MuiTableHead-root-19 Trends-tableRow-10"
+  >
+    <tr
+      className="MuiTableRow-root-20 MuiTableRow-head-23 Trends-tableRow-10"
+    >
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-head-26 Trends-tableCell-12"
+        scope="col"
+      >
+        Customer
+      </th>
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-head-26 Trends-tableCell-12"
+        scope="col"
+      >
+        Percentage Behind
+      </th>
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-head-26 Trends-tableCell-12"
+        scope="col"
+      >
+        Trend
+      </th>
+    </tr>
+  </thead>
+  <tbody
+    className="MuiTableBody-root-37"
+  >
+    <tr
+      className="MuiTableRow-root-20 Trends-tableRow-10"
+    >
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Trends-tableCell-12"
+      >
+        ABC
+      </td>
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Trends-tableCell-12"
+      >
+        1.0
+        %
+      </td>
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-25 MuiTableCell-body-27 Trends-tableActions-11"
+      >
+        <svg
+          aria-hidden="true"
+          className="MuiSvgIcon-root-38 undefined undefined"
+          focusable="false"
+          role="presentation"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M0 0h24v24H0V0z"
+            fill="none"
+          />
+          <path
+            d="M4 12l1.41 1.41L11 7.83V20h2V7.83l5.58 5.59L20 12l-8-8-8 8z"
+          />
+        </svg>
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;

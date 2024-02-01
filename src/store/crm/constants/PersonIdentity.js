@@ -1,0 +1,2 @@
+export const CLEAR_IDENTITY = 'CLEAR_IDENTITY';
+export const SET_IDENTITY = 'SET_IDENTITY';

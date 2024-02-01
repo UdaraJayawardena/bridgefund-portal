@@ -1,0 +1,5 @@
+docker build -t client .
+
+docker run -it --rm \
+    --name client \
+    client
